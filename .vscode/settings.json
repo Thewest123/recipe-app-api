@@ -4,7 +4,7 @@
         "-s",
         "-vv"
     ],
-    "python.testing.pytestEnabled": true,
+    "python.testing.pytestEnabled": false,
     "python.testing.nosetestsEnabled": false,
     "python.testing.unittestEnabled": false,
     "python.linting.flake8Enabled": true,
